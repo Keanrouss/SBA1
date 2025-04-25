@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    color: rgb(243, 24, 24);
+    display: flex;
+    justify-content: center;
+
+}
